@@ -1,0 +1,26 @@
+# TECH POLICY: PASSWORDS AND AUTHENTICATION
+
+## 1. Single Sign-On (SSO)
+All employees must use the corporate SSO provider to access internal tools and the SaaS product.
+SSO logins require multi-factor authentication (MFA) via mobile app or hardware token.
+Shared accounts are prohibited. Each user must have an individual identity.
+
+## 2. Password Requirements
+For systems that do not support SSO, passwords must be at least 14 characters long.
+Passwords must include at least three of the following categories: lowercase, uppercase, digits, symbols.
+Password reuse across personal and corporate systems is not allowed.
+
+## 3. Account Lockouts
+Accounts are locked after 5 failed login attempts within 15 minutes.
+Locked accounts automatically unlock after 30 minutes, or can be reset by the helpdesk.
+When users are locked out of their account, they should open an IT ticket titled "Account locked".
+
+## 4. VPN Access
+VPN is required to access restricted internal resources such as databases and admin panels.
+VPN access requires an active employee account and MFA.
+VPN performance issues should be triaged using the VPN runbook.
+
+## 5. Device Security
+Company laptops must use full-disk encryption and automatic screen lock after 5 minutes of inactivity.
+Installing unapproved software is prohibited. Requests for new tools must be submitted via the IT request form.
+Security incidents, such as suspected malware, must be reported to security@company.example immediately.

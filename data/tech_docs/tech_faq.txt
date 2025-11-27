@@ -1,0 +1,10 @@
+# TECH FAQ: COMMON QUESTIONS
+
+## Q1: How do I reset my password?
+A1: If you use SSO, reset your password in the identity provider portal. If you use a local account, click "Forgot password" on the login page.
+
+## Q2: Do I need VPN to access the SaaS dashboard?
+A2: No. The SaaS dashboard is accessible over the internet. VPN is required only for restricted internal resources, such as databases and admin consoles.
+
+## Q3: What should I do if the product seems slow?
+A3: Ask the customer when the issue started, which pages are affected, and whether others in their organization see the same issue. Check the status page and known incidents before escalating.

@@ -1,0 +1,23 @@
+# TECH POLICY: INCIDENT MANAGEMENT AND OUTAGES
+
+## 1. Definition of Incident
+An incident is any unplanned interruption or quality reduction of the SaaS product or internal systems.
+Incidents are categorized by severity: SEV1 (critical), SEV2 (major), SEV3 (minor).
+
+## 2. SEV1 Incidents
+SEV1 incidents include full-service outages, data loss, or security breaches affecting multiple customers.
+SEV1 requires immediate response from on-call engineers and incident commander activation.
+Status updates must be posted to the status page at least every 30 minutes.
+
+## 3. SEV2 and SEV3 Incidents
+SEV2 incidents are partial outages or performance degradation impacting a subset of customers.
+SEV3 incidents are issues with limited impact or easy workarounds.
+For SEV2 and SEV3, updates should be posted at intervals appropriate to the impact.
+
+## 4. Communication
+During an incident, all customer communication must follow the approved templates in the incident communication runbook.
+Engineers must avoid sharing internal-only information or speculating about root cause.
+
+## 5. Post-Incident Review
+All SEV1 and SEV2 incidents require a post-incident review within 5 business days.
+Reviews must include a timeline, root cause analysis, and a list of corrective actions with owners and due dates.
