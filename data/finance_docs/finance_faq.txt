@@ -1,0 +1,13 @@
+# FINANCE FAQ: COMMON QUESTIONS
+
+## Q1: How can I get a copy of my last invoice?
+A1: Email billing@company.example or access the "Billing" section of the admin portal to download past invoices.
+
+## Q2: Can I change my billing frequency from monthly to annual?
+A2: Yes, customers may switch to annual billing at renewal. Mid-term changes require a review from Finance.
+
+## Q3: How do I submit an expense report?
+A3: Log in to the expense management system, create a new report, attach receipts, and submit for manager approval.
+
+## Q4: When will I be reimbursed for expenses?
+A4: Approved expenses are reimbursed in the next payroll cycle.

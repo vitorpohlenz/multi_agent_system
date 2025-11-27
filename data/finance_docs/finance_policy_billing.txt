@@ -1,0 +1,20 @@
+# FINANCE POLICY: BILLING AND INVOICING
+
+## 1. Billing Cycles
+Customers may choose monthly or annual billing for subscriptions.
+Invoices are issued at the beginning of the billing period and sent by email to the billing contact.
+
+## 2. Payment Terms
+Standard payment terms are net 30 days from the invoice date.
+Late payments are subject to reminder notices and potential suspension of service after 45 days.
+
+## 3. Invoice Format
+Invoices include the customer name, billing address, tax identification, subscription plan, unit price, quantity, and applicable taxes.
+Currency is determined by the contract and cannot be changed mid-term without an amendment.
+
+## 4. Refund Policy
+Refunds are granted only in accordance with the Master Service Agreement.
+Partial refunds may be issued for prolonged outages or billing errors, subject to approval by Finance.
+
+## 5. Billing Support
+Customers can contact billing@company.example for invoice copies, PO numbers, and general billing inquiries.
