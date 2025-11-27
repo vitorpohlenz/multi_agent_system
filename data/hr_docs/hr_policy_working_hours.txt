@@ -1,4 +1,4 @@
-HR POLICY: WORKING HOURS AND ATTENDANCE
+# HR POLICY: WORKING HOURS AND ATTENDANCE
 
 ## 1. Standard Working Hours
 Our standard working hours are 9:00 to 18:00 Monday–Friday with a one-hour unpaid lunch break.
