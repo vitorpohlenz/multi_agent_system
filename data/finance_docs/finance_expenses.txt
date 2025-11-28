@@ -1,17 +1,47 @@
-# FINANCE POLICY: EMPLOYEE EXPENSES AND REIMBURSEMENT
+FINANCE POLICY: EMPLOYEE EXPENSES AND REIMBURSEMENT
 
-## 1. Eligible Expenses
+1. Eligible Expenses
 Eligible business expenses include travel, accommodation, meals with clients, and approved software tools.
 Personal expenses, fines, and luxury items are not reimbursable.
 
-## 2. Expense Submission
+2. Expense Submission
 Employees must submit expenses via the expense management system within 30 days of incurring the cost.
 Receipts are required for all expenses above the local petty cash threshold.
 
-## 3. Approval Workflow
+3. Approval Workflow
 Expense reports are routed to the employee's manager for approval.
 Finance audits expense reports regularly and may request additional documentation.
 
-## 4. Reimbursement Timing
+4. Reimbursement Timing
 Reimbursements are processed with the next payroll cycle after approval.
 Delays may occur if documentation is incomplete.
+
+5. Travel Guidelines
+Employees should book travel using approved vendors and follow the company’s travel class guidelines.
+Where possible, employees are expected to choose cost-effective options that balance safety, comfort, and price.
+Travel upgrades for personal preference are not reimbursable unless pre-approved.
+
+6. Meal and Entertainment Expenses
+Meals with clients or partners must have a documented business purpose, including attendees and topics discussed.
+There may be per-person or per-day limits on meal expenses depending on region and role.
+Purely social or personal meals are not considered reimbursable business expenses.
+
+7. Home Office and Remote Work Expenses
+Certain home office expenses, such as an ergonomic chair or external monitor, may be eligible if approved in advance.
+Recurring home internet or phone costs may be reimbursed partially where required by local regulations or policy.
+Employees should consult their manager and HR before making significant purchases.
+
+8. Currency and Exchange Rates
+Expenses incurred in a foreign currency will be converted based on the exchange rate used by the expense system or company card provider.
+Employees should avoid unnecessary currency conversion fees where possible.
+Any significant discrepancies due to rate differences can be reviewed by Finance.
+
+9. Non-Compliant Expenses
+Expenses that do not meet policy requirements may be rejected or partially reimbursed.
+Repeated submission of non-compliant expenses may be escalated to HR or the employee’s manager for discussion.
+Employees are encouraged to ask Finance for clarification before incurring borderline expenses.
+
+10. Policy Updates
+Expense policies may change to reflect new regulations, tax rules, or business priorities.
+Updated guidelines will be published in the expense management system and communicated via internal channels.
+Employees are responsible for reviewing the latest version of the policy before major trips or purchases.

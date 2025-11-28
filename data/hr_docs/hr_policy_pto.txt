@@ -1,28 +1,53 @@
-# HR POLICY: PAID TIME OFF (PTO) AND VACATIONS
+HR POLICY: PAID TIME OFF (PTO) AND VACATIONS
 
-## 1. Annual Leave Entitlement
+1. Annual Leave Entitlement
 Full-time employees receive 25 days of paid time off per calendar year, prorated for partial years.
 Part-time employees receive PTO on a pro-rated basis according to the percentage of full-time hours worked.
 PTO does not include public holidays, which are granted in addition to annual leave.
 
-## 2. Requesting Time Off
+2. Requesting Time Off
 Employees must request PTO at least 10 business days in advance for planned vacations.
 Requests are submitted through the HR self-service system by selecting the desired dates.
 Managers are responsible for approving or declining requests within five business days.
 
-## 3. Carry-Over and Expiry
+3. Carry-Over and Expiry
 Employees may carry over up to 5 unused PTO days to the next calendar year.
 Carried-over days must be used by June 30 of the following year or they will expire.
 Exceptions may be granted in writing by HR in cases such as long-term sickness or parental leave.
 
-## 4. Unplanned Absences
+4. Unplanned Absences
 In case of illness, employees must notify their manager as soon as reasonably possible.
 For absences longer than three consecutive days, a medical certificate may be required.
 Unplanned absences are recorded as sick leave or other relevant categories, not as PTO.
 
-## 5. Travel While on PTO
+5. Travel While on PTO
 While on PTO, employees are expected to fully disconnect from work responsibilities.
 Checking email or attending meetings should be avoided unless in exceptional circumstances and with manager approval.
 Employees should ensure their responsibilities are handed over to a backup before traveling.
 
-## This document describes general guidelines. Local laws or individual contracts may supersede these rules.
+6. Public Holidays and PTO
+Public holidays do not reduce an employee’s PTO balance and are tracked separately in the HR system.
+If an employee works on a public holiday, compensatory time off may be granted according to local law.
+Questions about how public holidays interact with PTO should be raised with HR.
+
+7. PTO During Probation Period
+Eligibility for PTO during the probation period may vary depending on local regulations and contract terms.
+Where allowed, employees can request time off during probation, but approvals may be more limited to ensure team stability.
+Managers should clearly communicate any probation-specific rules during onboarding.
+
+8. Handling PTO Conflicts
+When multiple employees request overlapping PTO, managers must balance business needs with fairness.
+Priority may be given based on the date of the request, critical project deadlines, or previously approved absences.
+If a request is declined due to conflicts, the manager should provide alternative options where possible.
+
+9. PTO Payout on Termination
+In some jurisdictions, unused but accrued PTO must be paid out upon termination of employment.
+The HR and payroll teams will calculate any outstanding balances based on local law and the employee’s contract.
+Employees should review their final payslip and contact payroll if they believe there is an error.
+
+10. Policy Changes and Local Variations
+This PTO policy provides a global baseline but may be adapted to comply with local labor laws.
+If there is a conflict between this policy and local legislation, local law will take precedence.
+HR will update employees if significant changes are made and will publish the latest version on the HR portal.
+
+This document describes general guidelines. Local laws or individual contracts may supersede these rules.

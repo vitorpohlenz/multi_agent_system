@@ -1,29 +1,54 @@
-# HR POLICY: WORKING HOURS AND ATTENDANCE
+HR POLICY: WORKING HOURS AND ATTENDANCE
 
-## 1. Standard Working Hours
+1. Standard Working Hours
 Our standard working hours are 9:00 to 18:00 Monday–Friday with a one-hour unpaid lunch break.
 Managers may approve flexible schedules as long as team coverage is maintained and business needs are met.
 Employees must record their working hours in the official timekeeping system each day.
 
-## 2. Remote Work
+2. Remote Work
 Remote work is permitted for eligible roles as defined in the role description.
 Employees must be reachable through company communication tools (email, chat, and video) during agreed working hours.
 Permanent remote work arrangements require a written agreement with HR and the line manager.
 
-## 3. Overtime
+3. Overtime
 Overtime must be approved in advance by the manager wherever practical.
 Overtime is compensated according to local legislation and the employee's contract.
 Employees are encouraged to manage their workload proactively and raise concerns early.
 
-## 4. Attendance Issues
+4. Attendance Issues
 Employees who are late or unexpectedly absent must notify their manager as soon as possible.
 Repeated unexcused absences may lead to a formal performance discussion and corrective action.
 HR maintains records of formal warnings in accordance with privacy regulations.
 
-## 5. Public Holidays
+5. Public Holidays
 Public holidays are defined by the country of employment.
 When a public holiday falls on a weekend, observance rules follow local regulations.
 Employees should check the HR portal for the official calendar of holidays.
 
-## Note: This policy applies to all regular employees, contractors, and interns unless stated otherwise.
+6. Flexible Working Arrangements
+Flexible working arrangements such as compressed weeks or adjusted start and end times may be requested by employees.
+Such arrangements must be documented and approved by both the manager and HR to ensure legal compliance.
+Approved flexible schedules should not negatively impact team collaboration or customer service levels.
+
+7. Timekeeping Corrections
+If an employee forgets to submit or incorrectly records working hours, they must request a correction through the timekeeping system.
+Managers are responsible for reviewing and approving corrections promptly to ensure payroll accuracy.
+Repeated issues with inaccurate timekeeping may be addressed as a performance concern.
+
+8. On-Call and Shift Work
+Certain roles may require on-call duties or shift work outside standard hours.
+On-call expectations, compensation, and escalation paths will be defined in role-specific documentation.
+Employees assigned to shifts must adhere to their published schedule and follow local rest-period regulations.
+
+9. Business Travel and Working Hours
+When traveling for business, employees should record actual working time spent on meetings, travel, and preparation as guided by local policy.
+Long-haul travel that crosses time zones may justify adjusted working hours, subject to manager approval.
+Questions on how to log travel time should be directed to HR or payroll.
+
+10. Policy Review and Exceptions
+This policy is reviewed periodically to reflect changes in legislation and business needs.
+Exceptions to this policy require written approval from HR and the relevant department head.
+Employees are encouraged to contact HR at hr@company.example if they have questions about how this policy applies to their situation.
+
+Note: This policy applies to all regular employees, contractors, and interns unless stated otherwise.
 For questions, contact hr@company.example.

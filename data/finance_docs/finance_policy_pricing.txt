@@ -1,18 +1,48 @@
-# FINANCE POLICY: PRICING AND DISCOUNTS
+FINANCE POLICY: PRICING AND DISCOUNTS
 
-## 1. Standard Pricing
+1. Standard Pricing
 Standard subscription pricing is published on the public website.
 Custom enterprise pricing is available for large customers subject to approval.
 
-## 2. Discounts
+2. Discounts
 Discounts above 20% off list price require approval from the Finance team.
 Multi-year agreements may justify higher discounts in exchange for longer commitments.
 
-## 3. Billing Frequency Changes
+3. Billing Frequency Changes
 Customers may request to change from monthly to annual billing at the next renewal date.
 Mid-term changes must be reviewed by Finance and may require a contract amendment.
 Switching from annual to monthly is generally not allowed mid-term.
 
-## 4. Taxes
+4. Taxes
 Customers are responsible for providing valid tax exemption certificates where applicable.
 If no certificate is provided, applicable VAT or sales tax will be charged.
+
+5. Promotional Offers
+Limited-time promotional offers or trial discounts must be documented and approved before being presented to customers.
+The terms of the promotion, including duration and eligibility, must be clearly stated in the order form or agreement.
+Once a promotion expires, standard pricing applies unless otherwise agreed in writing.
+
+6. Volume-Based Pricing
+For customers purchasing large volumes or multiple products, volume-based pricing tiers may apply.
+Sales must consult Finance before offering non-standard volume discounts to ensure profitability.
+Any custom pricing agreements must be recorded in the contract and internal systems.
+
+7. Currency and FX Considerations
+For multi-currency deals, Finance will determine the billing currency based on contractual terms and operational feasibility.
+Foreign exchange fluctuations are generally borne by the customer unless hedging arrangements are explicitly agreed.
+Requests to change billing currency mid-term require Finance and Legal review.
+
+8. Price Increases
+Price increases follow the terms of the Master Service Agreement and are typically applied at renewal.
+Customers should be notified of price changes in advance, in line with the notice period defined in the contract.
+Sales and Customer Success teams must align on messaging and supporting materials for price adjustments.
+
+9. Exceptions and Approvals
+Any deviations from standard pricing, discount thresholds, or billing rules require documented approval from Finance leadership.
+Exception approvals should include justification, expected revenue impact, and time period.
+Unapproved discounts or informal promises to customers are not binding on the company.
+
+10. Policy Governance
+The Finance team reviews pricing and discount policies at least annually.
+Updates are communicated to Sales, Customer Success, and Legal to ensure consistent application.
+Questions or edge cases should be escalated to the Finance leadership team for guidance.

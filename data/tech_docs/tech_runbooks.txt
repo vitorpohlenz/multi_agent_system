@@ -1,18 +1,60 @@
-# TECH RUNBOOK: COMMON SUPPORT SCENARIOS
+TECH RUNBOOK: COMMON SUPPORT SCENARIOS
 
-## Scenario 1: User cannot log in to the SaaS dashboard.
+Scenario 1: User cannot log in to the SaaS dashboard.
 1) Verify that the user is using the correct login URL and corporate email.
 2) Ask the user to try logging in via incognito/private browsing mode.
 3) Check if the user recently changed their identity provider password.
 4) If the account is locked due to failed attempts, instruct the user to wait 30 minutes or escalate to IT to reset.
 
-## Scenario 2: VPN connection fails.
+Scenario 2: VPN connection fails.
 1) Confirm that the user is on a stable network connection.
 2) Ask the user to restart the VPN client and try again.
 3) Validate that the user's account is active and that MFA is working.
 4) If the issue persists, collect logs and escalate to the network team.
 
-## Scenario 3: API returns HTTP 500 for multiple customers.
+Scenario 3: API returns HTTP 500 for multiple customers.
 1) Check the status page and incident Slack channel for ongoing incidents.
 2) Review application logs for recent deployments or configuration changes.
 3) If reproducible across customers, open an incident ticket and follow the incident management policy.
+
+Scenario 4: Product is slow for one customer.
+1) Ask which pages or API endpoints are slow and when the issue started.
+2) Check if similar performance tickets exist from other customers around the same time.
+3) Review metrics and logs for elevated response times or errors for the affected tenant.
+4) If necessary, escalate to the on-call engineer with a summary of findings.
+
+Scenario 5: User cannot reset password.
+1) Confirm whether the user is authenticating via SSO or local credentials.
+2) If SSO is used, direct the user to reset their password with the identity provider.
+3) If local, verify that the password reset email is sent and not blocked by spam filters.
+4) Escalate to IT if password reset emails are failing or the user cannot receive them.
+
+Scenario 6: Customer reports data not updating.
+1) Confirm which dashboards or reports are stale and what time they expect updates.
+2) Check the data pipeline or ingestion job status for failures or delays.
+3) If a job failed, re-run or escalate according to the data pipeline runbook.
+4) Inform the customer of the expected timeframe for data to be current.
+
+Scenario 7: User cannot access admin features previously available.
+1) Verify whether the user’s role or permissions have changed recently.
+2) Review audit logs for role assignments or group membership updates.
+3) Restore the correct role based on the customer’s contract and internal guidelines.
+4) Confirm with the user that access has been restored and document the change.
+
+Scenario 8: Browser-related UI issues.
+1) Ask which browser and version the customer is using and whether the issue appears in others.
+2) Instruct the user to clear cache, disable browser extensions, or try incognito mode.
+3) Check internal release notes for known UI bugs in the current version.
+4) If reproducible, log a bug ticket with screenshots and steps to reproduce.
+
+Scenario 9: Email notifications not being delivered.
+1) Confirm which notifications are missing and when they should have been sent.
+2) Check notification logs or email provider dashboards for delivery status.
+3) Ask the customer to check spam/junk folders and add sending addresses to their allowlist.
+4) Escalate to the email or infrastructure team if widespread delivery issues are identified.
+
+Scenario 10: SaaS dashboard displays an unexpected error message.
+1) Ask the user for the full error message and a screenshot if possible.
+2) Attempt to reproduce the issue using a test account with similar permissions.
+3) Check logs and monitoring for relevant error codes or stack traces.
+4) Create a bug or incident ticket as appropriate and provide a workaround if one exists.
