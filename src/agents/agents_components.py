@@ -3,6 +3,7 @@ sys.dont_write_bytecode = True
 import os
 from pathlib import Path
 from typing import Optional, Union
+from dotenv import load_dotenv
 
 from langchain.callbacks.base import BaseCallbackHandler
 from langchain_community.document_loaders import TextLoader
@@ -15,6 +16,7 @@ from langchain.chains import RetrievalQA
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
+load_dotenv()
 
 default_splitter = RecursiveCharacterTextSplitter(
         chunk_size=300,

@@ -22,7 +22,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from langfuse import Langfuse
-# from langfuse.callback import CallbackHandler as LangfuseCallbackHandler
 from langfuse.langchain import CallbackHandler as LangfuseCallbackHandler
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -139,6 +138,7 @@ def run_test_queries(orchestrator: Orchestrator, path: str):
 
 def main():
     load_dotenv()
+    print("[multi_agent_system] initializing...")
 
     parser = argparse.ArgumentParser(description="Multi-agent routing system")
     parser.add_argument("--query", type=str, help="Single query to route")
@@ -148,9 +148,11 @@ def main():
         type=str,
         help="Path to test_queries.json to evaluate intent routing",
     )
+    print("[multi_agent_system] args parsed")
 
     args = parser.parse_args()
 
+    print("[multi_agent_system] building system...")
     orchestrator = build_system()
 
     if args.query:

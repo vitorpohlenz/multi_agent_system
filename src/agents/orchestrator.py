@@ -4,6 +4,12 @@ import os
 from dataclasses import dataclass
 from typing import Callable, Dict, Optional, Literal
 
+import warnings
+from langchain_core._api.deprecation import LangChainDeprecationWarning
+
+# Ignore LangChainDeprecationWarning, LLMChain will be deprecated in the future. New approach is to use LangGraph.
+warnings.simplefilter("ignore", category=LangChainDeprecationWarning)
+
 from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
