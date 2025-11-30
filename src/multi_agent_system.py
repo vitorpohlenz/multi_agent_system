@@ -32,7 +32,7 @@ sys.path.append(str(SRC_DIR))
 from agents.agents_components import default_llm
 from agents.hr_agent import build_hr_agent
 from agents.tech_agent import build_tech_agent
-# from agents.finance_agent import build_finance_agent
+from agents.finance_agent import build_finance_agent
 from agents.orchestrator import Orchestrator
 
 
@@ -65,8 +65,7 @@ def build_system():
     langfuse_handler = init_langfuse_handler()
     hr_qa = build_hr_agent(langfuse_handler=langfuse_handler)
     tech_qa = build_tech_agent(langfuse_handler=langfuse_handler)
-    # finance_qa = build_finance_agent(langfuse_handler=langfuse_handler)
-    finance_qa = build_hr_agent(langfuse_handler=langfuse_handler)
+    finance_qa = build_finance_agent(langfuse_handler=langfuse_handler)
 
 
     orchestrator = Orchestrator(
