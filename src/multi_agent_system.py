@@ -86,8 +86,6 @@ def run_single_query(orchestrator: Orchestrator, query: str):
     print("-" * 60)
     print(result.answer)
     print("-" * 60)
-    print("[RAW INTENT OUTPUT]")
-    print(result.raw_intent_output.strip())
 
 
 def run_interactive(orchestrator: Orchestrator):
