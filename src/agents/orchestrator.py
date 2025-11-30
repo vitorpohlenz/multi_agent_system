@@ -1,6 +1,7 @@
+from __future__ import annotations
+
 import sys
 sys.dont_write_bytecode = True
-from __future__ import annotations
 
 from dataclasses import dataclass
 from typing import Callable, Dict, Optional, Literal
