@@ -90,7 +90,7 @@ def run_single_query(orchestrator: Orchestrator, query: str):
 
 def run_interactive(orchestrator: Orchestrator):
     print("Multi-Agent Support System (HR / Tech / Finance)")
-    print("Type 'exit' or 'quit' to stop.")
+    print("Type 'exit()' or 'quit()' to stop.")
     while True:
         try:
             query = input("\nYou: ").strip()
@@ -98,7 +98,7 @@ def run_interactive(orchestrator: Orchestrator):
             print("\nExiting.")
             break
 
-        if query.lower() in {"exit", "quit"}:
+        if query.lower() in {"exit()", "quit()"}:
             print("Bye!")
             break
 
