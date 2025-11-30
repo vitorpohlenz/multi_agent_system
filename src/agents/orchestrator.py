@@ -73,18 +73,17 @@ class Orchestrator:
             A callable with signature qa({"query": str}) for Tech/IT questions.
         finance_agent : Callable
             A callable with signature qa({"query": str}) for Finance questions.
+        llm : ChatOpenAI
+            Chat model.
         langfuse_handler : BaseCallbackHandler, optional
             Langfuse callback handler for tracing.
-        model_name : str, optional
-            LLM name for intent classification.
         """
         self.hr_agent = hr_agent
         self.tech_agent = tech_agent
         self.finance_agent = finance_agent
+        self.intent_llm = llm
 
         callbacks = [langfuse_handler] if langfuse_handler else None
-
-        self.intent_llm = llm
 
         prompt = PromptTemplate(
             template=INTENT_SYSTEM_PROMPT + USER_PROMPT,
