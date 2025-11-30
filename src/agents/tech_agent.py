@@ -11,14 +11,14 @@ from langchain.callbacks.base import BaseCallbackHandler
 ROOT_DIR = Path(__file__).resolve().parents[2]
 AGENTS_DIR = ROOT_DIR / "src" / "agents"
 DATA_DIR = ROOT_DIR / "data"
-HR_DATA_DIR = DATA_DIR / "hr_docs"
+TECH_DATA_DIR = DATA_DIR / "tech_docs"
 
 sys.path.append(str(AGENTS_DIR))
 from agents_components import default_embeddings, default_splitter, default_llm, build_default_RAG_agent
 
-def build_hr_agent(
-    role: str = "HR",
-    data_dir: str = HR_DATA_DIR,
+def build_tech_agent(
+    role: str = "Tech",
+    data_dir: str = TECH_DATA_DIR,
     embeddings: Union[HuggingFaceEmbeddings, OpenAIEmbeddings] = default_embeddings,
     splitter = default_splitter,
     llm: ChatOpenAI = default_llm,
@@ -26,7 +26,7 @@ def build_hr_agent(
     k_nearest_neighbors: int = 5
 ):
     """
-    Build a HR RAG agent backed by HR policies and FAQs.
+    Build a Tech RAG agent backed by Tech policies and FAQs.
 
     Parameters
     ----------
