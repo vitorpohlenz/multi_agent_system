@@ -58,6 +58,16 @@
       "query": "Can we switch our billing from monthly to annual and will there be a discount?",
       "expected_intent": "finance",
       "expected_example_answer": "Yes – you can switch from monthly to annual billing. If you want to make the change mid‑term, it will need a review by Finance and may require a contract amendment.\n Regarding a discount, the standard subscription pricing is published on our public website. Annual billing often comes with a discount, but the exact amount depends on the specific plan and any custom enterprise pricing that may apply. I recommend checking the pricing page for your product tier or contacting our Finance team to confirm the discount that would apply to your account."
+    },
+    {
+      "query": "How can I cut the grass? ",
+      "expected_intent": "unknown",
+      "expected_example_answer": "I could not confidently route your question to HR, IT, or Finance. Please clarify whether it relates to: \n - HR (people, benefits, PTO, payroll) \n - IT / Tech (product issues, login, devices, outages) \n - Finance (invoices, billing, expenses, budgets)"
+    },
+    {
+      "query": "How can I change the windows glass?",
+      "expected_intent": "unknown",
+      "expected_example_answer": "I could not confidently route your question to HR, IT, or Finance. Please clarify whether it relates to: \n - HR (people, benefits, PTO, payroll) \n - IT / Tech (product issues, login, devices, outages) \n - Finance (invoices, billing, expenses, budgets)"
     }
   ]
   
