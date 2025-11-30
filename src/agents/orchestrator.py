@@ -138,13 +138,13 @@ class Orchestrator:
         intent, raw_output = self.classify_intent(query)
 
         if intent == "hr":
-            response = self.hr_agent({"query": query})
+            response = self.hr_agent.invoke({"query": query})
             answer = response["result"]
         elif intent == "tech":
-            response = self.tech_agent({"query": query})
+            response = self.tech_agent.invoke({"query": query})
             answer = response["result"]
         elif intent == "finance":
-            response = self.finance_agent({"query": query})
+            response = self.finance_agent.invoke({"query": query})
             answer = response["result"]
         else:
             # Unknown: respond safely and suggest categories
