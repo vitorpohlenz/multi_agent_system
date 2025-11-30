@@ -1,0 +1,63 @@
+[
+    {
+      "query": "How many vacation days do I have per year?",
+      "expected_intent": "hr",
+      "expected_example_answer": "For most employees, the annual vacation entitlement is: \n - **Full‑time employees:** 25 days of paid time off (PTO) per calendar year, **excluding public holidays** (which are granted separately). \n - **Part‑time employees:** PTO on a pro‑rated basis, based on the percentage of full‑time hours worked. \n If you’re unsure whether you’re classified as full‑time or part‑time, you can check your employment status in the HR portal or contact HR for clarification."
+    },
+    {
+      "query": "How do I request paid time off?",
+      "expected_intent": "hr",
+      "expected_example_answer": "To request paid time off (PTO) you’ll need to use the HR self‑service portal. Follow these steps: \nTo request paid time off (PTO) you’ll need to use the HR self‑service portal. Follow these steps: \n 1. **Log in** to the HR self‑service portal with your employee credentials. \n 2. **Navigate to the “My Time Off” or “PTO Request” section** (the exact name may vary by system). \n 3. **Select the dates** you wish to take off. \n - Make sure the request is for a planned vacation or other approved PTO type. \n - Remember: you must submit the request **at least 10 business days in advance** of the first day you plan to be away. \n 4. **Submit the request**. \n 5. **Manager review**: Your manager will receive the request and has up to **five business days** to approve or decline it. \n 6. **Confirmation**: Once approved, the dates will appear on your calendar and in your PTO balance. If declined, you’ll receive a notification with the manager’s comments. \n"
+    },
+    {
+      "query": "What is the parental leave directives when my partner gives birth?",
+      "expected_intent": "hr",
+      "expected_example_answer": "**Parental‑leave rules for a non‑birthing partner (i.e., you) when your partner gives birth** \n | Item | What it means for you | \n |------|------------------------| \n | **Eligibility** | You must have at least **6 months of continuous service** with the company. | \n | **Leave entitlement** | **4 weeks** of paid leave at **100 % of your base salary**. | \n | **Timing** | The leave can be taken **in one continuous block** or **split into up to two periods**. Both periods must be taken **within the first 6 months** after the birth. | \n | **How to request** | 1. **Notify HR and your manager** as soon as practicable, ideally **12 weeks before** you plan to start the leave.  <br>2. Provide: <br> • Expected start and end dates of the leave. <br> • Whether you’ll take it continuously or split it (and the dates of each split). <br> • Any other relevant details (e.g., if you’ll be the primary caregiver). | \n | **Documentation** | A medical certificate is **not required** for partner leave, but you may need to provide it if requested by HR. | \n | **Local law** | The company policy is the **minimum**. If local legislation offers more generous rights, those will **supersede** this policy. | \n **Quick checklist for you:** \n 1. **Confirm you’ve met the 6‑month service requirement.** \n 2. **Decide whether you’ll take the 4 weeks all at once or split them.** \n 3. **Write a leave request** (email or HR portal) with the dates and split plan. \n 4. **Send it to HR and copy your manager** at least 12 weeks before the leave starts. \n 5. **Keep a copy** of the request and any confirmation from HR. \n That’s the full set of directives you need to follow when your partner gives birth. If you have any questions about the process or need help filling out the request, just let HR know and they’ll guide you through it."
+    },
+    {
+      "query": "Wich are the working hours?",
+      "expected_intent": "hr",
+      "expected_example_answer": "The standard working hours are **9:00 am to 6:00 pm, Monday through Friday**, with a one‑hour unpaid lunch break.\n Managers may approve flexible schedules (e.g., adjusted start/end times or compressed weeks) as long as team coverage and business needs are maintained."
+    },
+    {
+      "query": "What is the dress code for visitors coming to the office next week?",
+      "expected_intent": "hr",
+      "expected_example_answer": "For visitors coming to the office next week, the default expectation is **smart‑casual** attire. \n If the visit involves a formal customer meeting or a presentation, please coordinate with your manager to confirm any specific dress‑code requirements for that event."
+    },
+    {
+      "query": "What are the categories of the severities of incidents in our SaaS?",
+      "expected_intent": "tech",
+      "expected_example_answer": "In our SaaS, incidents are classified into three severity levels: \n | Severity | Code | Typical Impact | \n |----------|------|----------------| \n | **Critical** | **SEV1** | Unplanned interruption or significant quality degradation affecting the entire service or a large portion of customers. | \n | **Major** | **SEV2** | Partial outage or performance degradation that impacts a subset of customers or a key feature. | \n | **Minor** | **SEV3** | Issues with limited impact or easy workarounds, often affecting a small group of users or a non‑critical feature. | \n These categories help prioritize response, communication, and resolution efforts."
+    },
+    {
+      "query": "Can I lend my credentials to a work colleague?",
+      "expected_intent": "tech",
+      "expected_example_answer":" No. \n According to the company’s security policy, **credential sharing is strictly prohibited**: \n - Employees must not share passwords, MFA tokens, or authentication codes with anyone, including colleagues and managers. \n - Each user must have an individual identity and use the corporate SSO provider for all internal tools. \n - Shared accounts are not allowed. \n If you need access for a colleague, have them create their own account or request the appropriate permissions through the proper channels. If you suspect a credential compromise, report it immediately to security@company.example."
+    },
+    {
+      "query": "Can I use MFA with a hardware token?",
+      "expected_intent": "tech",
+      "expected_example_answer": "Yes – the corporate policy allows MFA to be performed with a hardware token. \n When you log in through the corporate SSO provider, you can choose either the mobile‑app authenticator or a hardware token as your second factor."
+    },
+    {
+      "query": "What are the requirements for my new password?.",
+      "expected_intent": "tech",
+      "expected_example_answer": "Your new password must meet the following requirements: \n 1. **Length** – At least **14 characters** long. \n 2. **Complexity** – Include **at least three** of these four categories: \n   * Lowercase letters (a–z) \n   * Uppercase letters (A–Z) \n   * Digits (0–9) \n   * Symbols (e.g., !@#$%^&*()_+‑=…) \n 3. **Uniqueness** – Do **not** reuse a password that you use for personal accounts or other corporate systems."
+    },
+    {
+      "query": "Where can I download my last invoice and see the breakdown of charges for our subscription?",
+      "expected_intent": "finance",
+      "expected_example_answer": "You can get your most recent invoice and the detailed charge breakdown in two ways: \n 1. **Admin portal** – Log in to your account and go to the **Billing** section. From there you can download the latest invoice and view the line‑item breakdown of your subscription. \n 2. **Email request** – If you prefer, send an email to **billing@company.example** and ask for a copy of the last invoice. They’ll send it to you and can also provide the charge details if needed."
+    },
+    {
+      "query": "When the price will be reviewed?",
+      "expected_intent": "finance",
+      "expected_example_answer": "The price is reviewed on an annual basis by the Finance team. In practice, any price changes are typically applied at the contract renewal date (as set out in the Master Service Agreement) and customers are notified in advance according to the notice period specified in the contract."
+    },
+    {
+      "query": "Can we switch our billing from monthly to annual and will there be a discount?",
+      "expected_intent": "finance",
+      "expected_example_answer": "Yes – you can switch from monthly to annual billing. If you want to make the change mid‑term, it will need a review by Finance and may require a contract amendment.\n Regarding a discount, the standard subscription pricing is published on our public website. Annual billing often comes with a discount, but the exact amount depends on the specific plan and any custom enterprise pricing that may apply. I recommend checking the pricing page for your product tier or contacting our Finance team to confirm the discount that would apply to your account."
+    }
+  ]
+  
