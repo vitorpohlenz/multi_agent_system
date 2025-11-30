@@ -95,6 +95,7 @@ class Orchestrator:
             llm=self.intent_llm,
             prompt=prompt,
             callbacks=callbacks,
+            name="Orchestrator Intent Classifier",
         )
 
     def classify_intent(self, query: str) -> (Intent, str):

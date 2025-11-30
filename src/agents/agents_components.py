@@ -99,7 +99,7 @@ def build_default_RAG_agent(
         return_source_documents=True,
         callbacks=callbacks,
         chain_type="stuff",
-        config={"run_name":f"{role} RAG Agent"},
+        name=f"{role} RAG Agent",
     )
 
     return qa
