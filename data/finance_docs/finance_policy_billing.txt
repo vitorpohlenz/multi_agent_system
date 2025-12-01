@@ -1,0 +1,45 @@
+FINANCE POLICY: BILLING AND INVOICING
+
+1. Billing Cycles
+Customers may choose monthly or annual billing for subscriptions.
+Invoices are issued at the beginning of the billing period and sent by email to the billing contact.
+
+2. Payment Terms
+Standard payment terms are net 30 days from the invoice date.
+Late payments are subject to reminder notices and potential suspension of service after 45 days.
+
+3. Invoice Format
+Invoices include the customer name, billing address, tax identification, subscription plan, unit price, quantity, and applicable taxes.
+Currency is determined by the contract and cannot be changed mid-term without an amendment.
+
+4. Refund Policy
+Refunds are granted only in accordance with the Master Service Agreement.
+Partial refunds may be issued for prolonged outages or billing errors, subject to approval by Finance.
+
+5. Billing Support
+Customers can contact billing@company.example for invoice copies, PO numbers, and general billing inquiries.
+
+6. Dispute Resolution
+If a customer believes there is an error on an invoice, they must notify Finance within 30 days of the invoice date.
+Finance will investigate the dispute, request any necessary documentation, and communicate the outcome in writing.
+Service suspension due to non-payment may be delayed while a good-faith dispute is under active review.
+
+7. Credit Notes
+When overbilling is confirmed, Finance may issue a credit note that can be applied to future invoices.
+The credit note will specify the reason and the amount credited, referencing the original invoice.
+Credit notes do not typically result in immediate cash refunds unless required by contract or law.
+
+8. Billing Contact Changes
+Customers are responsible for keeping their billing contact information up to date.
+Requests to change the billing contact must come from an authorized representative and be documented in the CRM or contract file.
+Out-of-date contact details that cause missed invoices do not exempt customers from payment obligations.
+
+9. Tax Compliance
+Invoices will include applicable taxes based on the customer’s location and the information provided.
+Customers must supply valid tax identification numbers and exemption certificates where required.
+Finance may adjust tax calculations if regulations change or if new information is provided.
+
+10. Policy Review
+This billing and invoicing policy may be updated periodically to reflect changes in regulations or business practices.
+Material changes will be communicated to relevant internal stakeholders such as Sales, Customer Success, and Support.
+Questions about this policy can be directed to the Finance team or billing@company.example.

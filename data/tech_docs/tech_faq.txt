@@ -1,0 +1,31 @@
+TECH FAQ: COMMON QUESTIONS
+
+Q1: How do I reset my password?
+A1: If you use SSO, reset your password in the identity provider portal. If you use a local account, click "Forgot password" on the login page.
+
+Q2: Do I need VPN to access the SaaS dashboard?
+A2: No. The SaaS dashboard is accessible over the internet. VPN is required only for restricted internal resources, such as databases and admin consoles.
+
+Q3: What should I do if the product seems slow?
+A3: Ask the customer when the issue started, which pages are affected, and whether others in their organization see the same issue. Check the status page and known incidents before escalating.
+
+Q4: Where can I check if there is an ongoing outage?
+A4: You can check the public status page and the internal incident channel for announcements about ongoing incidents or maintenance.
+
+Q5: How do I report a bug?
+A5: Collect clear steps to reproduce, screenshots if possible, and environment details. Then create a ticket in the bug tracking system using the "Bug" issue type.
+
+Q6: Can I use any browser with the product?
+A6: The product officially supports the latest versions of major browsers such as Chrome, Firefox, and Edge. Older versions may work but are not fully tested.
+
+Q7: How can I get API credentials?
+A7: API credentials are generated in the admin portal by an administrator with the correct permissions. API keys must be stored securely and not shared.
+
+Q8: What should I do if MFA is not working on my phone?
+A8: First, try resynchronizing or reinstalling the MFA app. If the issue persists, contact IT to verify your identity and reset your MFA configuration.
+
+Q9: Do we log customer data for debugging?
+A9: Logs are configured to avoid capturing sensitive data where possible. Any use of logs for debugging must follow security and privacy guidelines.
+
+Q10: How can I request a new integration with a third-party tool?
+A10: Submit a feature request via the product feedback portal or through your account manager. The product team will evaluate demand and technical feasibility.

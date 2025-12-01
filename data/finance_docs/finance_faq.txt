@@ -1,0 +1,31 @@
+FINANCE FAQ: COMMON QUESTIONS
+
+Q1: How can I get a copy of my last invoice?
+A1: Email billing@company.example or access the "Billing" section of the admin portal to download past invoices.
+
+Q2: Can I change my billing frequency from monthly to annual?
+A2: Yes, customers may switch to annual billing at renewal. Mid-term changes require a review from Finance.
+
+Q3: How do I submit an expense report?
+A3: Log in to the expense management system, create a new report, attach receipts, and submit for manager approval.
+
+Q4: When will I be reimbursed for expenses?
+A4: Approved expenses are reimbursed in the next payroll cycle.
+
+Q5: Who should I contact if I think my invoice is incorrect?
+A5: Contact billing@company.example with the invoice number and a brief description of the issue. Finance will review and respond.
+
+Q6: Can Finance help me understand the taxes on my invoice?
+A6: Yes. Finance can explain how taxes were calculated based on your location and the information on file. Provide your tax ID and invoice number for faster support.
+
+Q7: Are late payment fees applied automatically?
+A7: Late payment reminders are typically sent automatically after the due date. Additional fees or service suspension follow the terms in your contract.
+
+Q8: Can I pay by credit card instead of bank transfer?
+A8: Many customers can pay by credit card using the payment link provided with the invoice, depending on region and contract.
+
+Q9: How do I update the billing contact for my account?
+A9: An authorized representative should email billing@company.example with the new contact details, including name, email address, and role.
+
+Q10: Does Finance provide reports on total spend per year?
+A10: Yes. Upon request, Finance can provide summary reports of invoiced amounts and payments received for a given period, subject to internal reporting timelines.

@@ -1,0 +1,48 @@
+TECH POLICY: INCIDENT MANAGEMENT AND OUTAGES
+
+1. Definition of Incident
+An incident is any unplanned interruption or quality reduction of the SaaS product or internal systems.
+Incidents are categorized by severity: SEV1 (critical), SEV2 (major), SEV3 (minor).
+
+2. SEV1 Incidents
+SEV1 incidents include full-service outages, data loss, or security breaches affecting multiple customers.
+SEV1 requires immediate response from on-call engineers and incident commander activation.
+Status updates must be posted to the status page at least every 30 minutes.
+
+3. SEV2 and SEV3 Incidents
+SEV2 incidents are partial outages or performance degradation impacting a subset of customers.
+SEV3 incidents are issues with limited impact or easy workarounds.
+For SEV2 and SEV3, updates should be posted at intervals appropriate to the impact.
+
+4. Communication
+During an incident, all customer communication must follow the approved templates in the incident communication runbook.
+Engineers must avoid sharing internal-only information or speculating about root cause.
+
+5. Post-Incident Review
+All SEV1 and SEV2 incidents require a post-incident review within 5 business days.
+Reviews must include a timeline, root cause analysis, and a list of corrective actions with owners and due dates.
+
+6. Incident Ownership
+Every incident must have a clearly identified incident commander responsible for coordination.
+The incident commander is accountable for assigning roles, tracking actions, and ensuring updates are communicated.
+Ownership may be handed over between shifts, but this must be documented in the incident record.
+
+7. Incident Channels and Tools
+All real-time incident collaboration should take place in the designated incident chat channel.
+Incident tickets must be created in the tracking system with an appropriate severity and impacted services.
+Engineers should keep notes in the incident ticket or a shared document for later review.
+
+8. Customer-Facing Notifications
+Customer status updates must avoid revealing sensitive internal details and focus on impact, mitigation, and next steps.
+Templates for acknowledgments, updates, and resolution announcements are available in the communication runbook.
+All customer communications during severe incidents should be reviewed by support leadership or communications.
+
+9. Change Freeze During Incidents
+During active SEV1 incidents, non-essential deployments and configuration changes should be paused.
+Any emergency change must be documented and rolled back if it worsens the situation.
+Once the incident is resolved, normal change processes can resume.
+
+10. Continuous Improvement
+Incident metrics such as time to detect, time to mitigate, and time to resolve should be monitored.
+Patterns of recurring incidents should trigger deeper root cause analysis or architectural reviews.
+The incident management policy will be refined over time based on lessons learned.
